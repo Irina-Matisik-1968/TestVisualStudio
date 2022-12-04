@@ -17,6 +17,10 @@ namespace TestGit
             Console.WriteLine($"{a}+{b}={res}");
             res = a - b;
             Console.WriteLine($"{a}-{b}={res}");
+            res = a * b;
+            Console.WriteLine($"{a}*{b}={res}");
+            res = a / b;
+            Console.WriteLine($"{a}/{b}={res}");
             Console.ReadKey();
         }
     }

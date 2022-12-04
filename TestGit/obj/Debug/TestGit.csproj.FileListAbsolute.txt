@@ -1,0 +1,7 @@
+C:\Users\mama\Desktop\TestGit\TestGit\bin\Debug\TestGit.exe.config
+C:\Users\mama\Desktop\TestGit\TestGit\bin\Debug\TestGit.exe
+C:\Users\mama\Desktop\TestGit\TestGit\bin\Debug\TestGit.pdb
+C:\Users\mama\Desktop\TestGit\TestGit\obj\Debug\TestGit.csproj.AssemblyReference.cache
+C:\Users\mama\Desktop\TestGit\TestGit\obj\Debug\TestGit.csproj.CoreCompileInputs.cache
+C:\Users\mama\Desktop\TestGit\TestGit\obj\Debug\TestGit.exe
+C:\Users\mama\Desktop\TestGit\TestGit\obj\Debug\TestGit.pdb
